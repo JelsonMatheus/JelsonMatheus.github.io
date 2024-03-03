@@ -1,0 +1,23 @@
+[
+    {
+        "link": "http://www.sasc.pi.gov.br/",
+        "duration": "Ago 2023 — Presente",
+        "office": "Analista de Sistemas · SASC PI",
+        "description": "Organização, geração de relatórios estratégicos e análise cruzada de dados para atender às demandas internas da entidade. Avaliação e aprimoramento de sistemas internos.",
+        "technologies": ["PostgreSQL", "SQL", "Excel"]
+    },
+    {
+        "link": "https://proffer.com.br/",
+        "duration": "Out 2022 — Presente",
+        "office": "Estágio Engenheiro de Dados · Proffer",
+        "description": "Desenvolvimento de integrações e padronização de dados com Pandas, Apache Airflow e banco de dados PostgreSQL. Além disso, realizo configurações de instâncias EC2 na AWS para a execução eficiente de tarefas.",
+        "technologies": ["PostgreSQL", "Airflow", "Pandas", "Python", "AWS", "EC2", "S3"]
+    },
+    {
+        "link": "https://infatec.net.br/",
+        "duration": "MAR 2021 — 2022",
+        "office": "Estágio em desenvolvimento Infatec",
+        "description": "Desenvolvimento de novas funcionalidades e correções de bugs em sistema web com PHP, Javascript, HTML e CSS. Criação de scripts SQL para relatório em banco de dados MySQL. Desenvolvimento de novos módulos com Django REST Framework.",
+        "technologies": ["MySQL", "PHP", "CSS", "Python", "Django", "Javascript", "HTML", "JQuery"]
+    }
+]
