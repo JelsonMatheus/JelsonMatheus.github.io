@@ -17,8 +17,7 @@
     </p>
     <p class="mt-3">
       Nos poucos momentos em que desligo o computador, encontro prazer no vôlei. Entre códigos e partidas,
-      encontro um equilíbrio saudável. O vôlei se tornou mais do que um passatempo, transformando-se em um 
-      refúgio que preenche meus momentos de lazer. Ao final do dia, seja envolvido em programação ou em uma 
+      encontro um equilíbrio saudável. Ao final do dia, seja envolvido em programação ou em uma 
       partida, busco a simplicidade de equilibrar minha vida acadêmica, profissional e pessoal.
     </p>
   </section>

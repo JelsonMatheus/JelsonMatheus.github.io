@@ -28,7 +28,7 @@
         </a>
       </li>
       <li>
-        <a href="" target="_blank" title="Instagram">
+        <a href="https://www.instagram.com/jelsonmatheus/" target="_blank" title="Instagram">
           <i class="bi bi-instagram text-2xl"></i>
         </a>
       </li>
