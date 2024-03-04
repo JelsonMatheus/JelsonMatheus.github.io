@@ -16,9 +16,9 @@
       de trabalhar com o banco de dados <b>PostgreSQL</b>.
     </p>
     <p class="mt-3">
-      Nos poucos momentos em que desligo o computador, encontro prazer no vôlei. Entre códigos e partidas,
-      encontro um equilíbrio saudável. Ao final do dia, seja envolvido em programação ou em uma 
-      partida, busco a simplicidade de equilibrar minha vida acadêmica, profissional e pessoal.
+      Nos raros momentos em que desligo o computador, encontro prazer em jogar vôlei. Entre linhas de código e 
+      jogadas precisas, estabeleço um equilíbrio saudável. Ao encerrar o dia, esteja imerso na programação ou 
+      envolvido em uma partida de vôlei, busco a simplicidade de equilibrar minha vida acadêmica, profissional e pessoal.
     </p>
   </section>
 </template>
