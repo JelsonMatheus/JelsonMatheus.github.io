@@ -1,19 +1,22 @@
-<script lang="ts">
+<script setup lang="ts">
+const cursorX = ref(0);
+const cursorY = ref(0);
 
-export default {
-  data() {
-    return {
-      cursorX: 0,
-      cursorY: 0,
-    };
-  },
-  methods: {
-    trackMouse({ pageX, pageY }: MouseEvent) {
-      this.cursorX = pageX;
-      this.cursorY = pageY;
-    },
-  },
-}
+useSeoMeta({
+  title: 'Jelson Matheus',
+  ogTitle: 'Jelson Matheus',
+  description: 'Jelson Matheus: Desenvolvedor Full Stack com expertise em backend e frontend, especializado em projetos de desenvolvimento web.',
+  ogDescription: 'Jelson Matheus: Desenvolvedor Full Stack com expertise em backend e frontend, especializado em projetos de desenvolvimento web.'
+})
+useHead({
+  htmlAttrs: {
+    lang: 'pt-br'
+  }
+})
+const trackMouse = (event: MouseEvent) => {
+  cursorX.value = event.pageX;
+  cursorY.value = event.pageY;
+};
 </script>
 
 <template>
